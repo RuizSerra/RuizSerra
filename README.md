@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jaime (pronounced /'hi-may/). I am a PhD candidate at the Centre for Complex Systems at the University of Sydney.
+I'm Jaime (pronounced `/'hi-may/`). I am a PhD candidate at the Centre for Complex Systems at the University of Sydney.
 
 I also help with Deep Reinforcement Learning-driven image processing research at Swinburne University of Technology.
 
