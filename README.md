@@ -2,7 +2,7 @@
 
 I'm Jaime (pronounced `/'hi-may/`). I am a PhD candidate at the [Centre for Complex Systems](https://www.sydney.edu.au/complex-systems) at the University of Sydney.
 
-Say hello on [LinkedIn](https://www.linkedin.com/in/RuizSerra) or [Bluesky](https://bsky.app/profile/ruizserra.bsky.social)!
+Say hello on [LinkedIn](https://www.linkedin.com/in/RuizSerra) or visit [my website](https://jaime.rs/).
 
 <!--
 **RuizSerra/RuizSerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
